@@ -1,4 +1,4 @@
-Edit the MyFunctions.java class and add your testim API key and projectID
+Edit the MyConfiguration.java class and add your testim API key and projectID
 Save the file
 
 THe main class that is working is MyFunctions.java 
